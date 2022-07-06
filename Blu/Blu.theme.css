@@ -1,0 +1,32 @@
+/**
+* @name Blu
+* @version 1.1.2
+* @description Simple blue theme that will probably burn your eyes
+* @author 7Vexxed
+* @invite 
+* @source https://github.com/7Vexxed/Themes/Blu/Blu.theme.css
+* @website https://github.com/7Vexxed/Themes
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--mainColor: rgb(0, 8, 122);
+--backgroundColor01: #000598FF;
+--backgroundColor02: #00007CFF;
+--gradientColor01: rgb(0, 51, 202);
+--gradientColor02: rgb(0, 0, 211);
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #39FF00FF;
+--rs-idle-color: #FFC200FF;
+--rs-dnd-color: #FF0000FF;
+--rs-offline-color: #000000FF;
+--rs-streaming-color: #A200FFFF;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
